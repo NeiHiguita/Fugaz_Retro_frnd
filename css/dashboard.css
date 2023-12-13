@@ -13,6 +13,12 @@ header {
     padding: 20px;
     text-align: center;
 }
+/*estilos para los iconos de la barra*/
+.icn{
+    position: relative;
+    margin-right: 30px;
+    margin-top: 10px;
+}
 /* Estilos para el menú lateral */
 .sidebar {
     position: fixed;
@@ -250,7 +256,9 @@ input[type="text"] {
     padding: 8px; /* Añade espacio entre el contenido y el borde */
 }
 
-
+.tab{
+    margin-left: 50px;
+}
 
 
 #categoriesTable th {

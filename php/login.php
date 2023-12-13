@@ -95,7 +95,7 @@
                             </div>
                         </div>
                     </div>
-                    <form class="mt-4" action="/Fugaz_Retro/html/index.html" method="post">
+                    <form class="mt-4" action="/Fugaz_Retro/php/index.php" method="post">
                         <div class="d-grid">
                             <button type="submit" class="btn btn-primary">Ir al Inicio</button>
                         </div>
